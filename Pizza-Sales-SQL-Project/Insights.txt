@@ -1,0 +1,72 @@
+-- Revenue Insights
+
+Total Revenue Generated: ₹85.78 Cr
+
+Top Revenue-Generating Pizza: Greek Pizza – ₹35.95
+
+
+-- Ordering Trends
+
+Most Ordered Pizza Size: Large (L) – 18,526 orders
+
+
+-- Top 5 Most Ordered Pizza Types (by quantity):
+
+1. Classic Deluxe – 2,453
+
+
+2. Barbecue Chicken – 2,432
+
+
+3. Hawaiian – 2,422
+
+
+4. Pepperoni – 2,418
+
+
+5. Thai Chicken – 2,371
+
+
+
+
+-- Time-Based Insights
+
+Peak Order Hours: 6 PM – 9 PM (Evening time)
+
+
+> Suggests high demand during dinner time, ideal for targeted marketing.
+
+
+
+-- High Performers (Revenue-Wise)
+
+Top 3 Revenue Contributors:
+
+1. Classic Deluxe
+
+
+2. Barbecue Chicken
+
+
+3. Hawaiian
+
+
+
+
+> Focus pizzas for promotions, combos & visibility.
+
+
+
+-- Sales Distribution & Growth
+
+Cumulative Revenue Trend: Steady growth over time
+
+
+> Reflects strong customer retention & festive spikes.
+
+
+
+Pizza Type Contribution: Each pizza contributes uniquely to total revenue
+
+
+> Use insights to optimize menu & pricing.
